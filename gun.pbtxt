@@ -1,0 +1,24 @@
+item {
+  name: "Sniper rifle"
+  id: 1
+}
+item {
+  name: "Automatic Rifle"
+  id: 2
+}
+item {
+  name: "Submachine gun"
+  id: 3
+}
+item {
+  name: "Shotgun"
+  id: 4
+}
+item {
+  name: "Handgun"
+  id: 5
+}
+item {
+  name: "Knife"
+  id: 6
+}
